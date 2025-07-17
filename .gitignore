@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+recursion/r_arrays1
+.DS_Store
+.vscode/tasks.json
