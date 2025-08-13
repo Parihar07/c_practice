@@ -56,3 +56,5 @@ dkms.conf
 recursion/r_arrays1
 .DS_Store
 .vscode/tasks.json
+.vscode/launch.json
+.vscode/settings.json
